@@ -7,7 +7,7 @@
         "$className": "ReplicatedStorage",
   
         "Luanoid": {
-          "$path": "src/Luanoid"
+          "$path": "src"
         }
       }
     }
