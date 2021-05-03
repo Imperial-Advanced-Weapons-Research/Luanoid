@@ -1,0 +1,14 @@
+{
+    "name": "IMDAWR - Luanoid Testing",
+    "tree": {
+      "$className": "DataModel",
+  
+      "ReplicatedStorage": {
+        "$className": "ReplicatedStorage",
+  
+        "Luanoid": {
+          "$path": "src/Luanoid"
+        }
+      }
+    }
+  }
