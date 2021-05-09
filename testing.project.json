@@ -6,8 +6,16 @@
       "ReplicatedStorage": {
         "$className": "ReplicatedStorage",
   
-        "Luanoid": {
+        "LuanoidService": {
           "$path": "src"
+        },
+
+        "Class": {
+          "$path": "Opensource-Modules/src/Classes/Class.lua"
+        },
+
+        "Event": {
+          "$path": "Opensource-Modules/src/Classes/Event.lua"
         }
       }
     }
